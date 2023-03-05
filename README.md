@@ -1,6 +1,6 @@
 # Overview
 
-This project is a web application/ web page that is accessible through Node.js that allows the user to generate a random Pokémon team. This is done via JavaScript and involves creating a function that fetches and awaits the conversion of a txt file to json and then filtering and randomizing the results that are displayed to the user.
+This project is a web application/ web page that allows the user to generate a random Pokémon team. This is done via JavaScript and involves creating a function that fetches and awaits the conversion of a txt file to json and then filtering and randomizing the results that are displayed to the user.
 
 The user can test this application by cloning the repository and initiating a test server through whatever text editor they are using or by accessing the github pages for this repository.
 
