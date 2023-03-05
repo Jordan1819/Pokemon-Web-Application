@@ -15,19 +15,16 @@ This project included two webpages backed by the same style and javascript files
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This software was developed using Microsoft VS Code and utilizes JavaScript, HTML, and CSS.  
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Stack Overflow](https://stackoverflow.com)
+* [W3 Schools](https://w3schools.com)
+* [CodePen](https://codepen.io/Jordan1819)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add animation to transition between webpages.
+* Add filters that users can use to filter Pokemon results by type, name, etc.
+* Allow users to toggle the shiny sprite variant for each Pokemon.
