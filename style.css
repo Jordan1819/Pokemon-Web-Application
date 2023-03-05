@@ -9,12 +9,18 @@
 * {
 box-sizing: border-box;
 color: white;
+margin: 0;
 }
 body {
 background-image: linear-gradient(blue, red);
 }
 h1 {
 text-shadow: 2px 2px 4px #000000;
+margin-bottom: 45px;
+}
+h2 {
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 2em;
 }
 .header1 {
 font-size: 3em;
@@ -92,15 +98,22 @@ flex-direction: column;
 h2:first-letter {
 text-transform: uppercase;
 font-size: 1.2em;
+margin: 0 auto;
 }
 img {
     width: 50%;
     background-image: linear-gradient(red, blue);
     border-radius: 20px;
     border: 1px solid white;
+    margin-bottom: 40px;
 }
 .refreshButton {
-    font-size: 1.5em;
+    font-size: 3em;
     text-align: center;
     margin-top: 20px;
+
+}
+p {
+    font-size: 1.5em;
+    margin-bottom: 5px;
 }
