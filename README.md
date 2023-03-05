@@ -11,7 +11,7 @@ My purpose in creating this project was to experiment more with fetching, conver
 # Web Pages
 
 This project includes two webpages backed by the same style and javascript files. The database api that 
-is accessed and manipulated is external and not part of this repository. The Pokemon API database can be located here: * [PokeApi](https://pokeapi.co)
+is accessed and manipulated is external and not part of this repository. The Pokemon API database can be located here: [PokeApi](https://pokeapi.co)
 
 
 # Development Environment
