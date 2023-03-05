@@ -10,7 +10,8 @@ My purpose in creating this project was to experiment more with fetching, conver
 
 # Web Pages
 
-This project included two webpages backed by the same style and javascript files. 
+This project includes two webpages backed by the same style and javascript files. The database api that 
+is accessed and manipulated 
 
 
 # Development Environment
@@ -22,6 +23,7 @@ This software was developed using Microsoft VS Code and utilizes JavaScript, HTM
 * [Stack Overflow](https://stackoverflow.com)
 * [W3 Schools](https://w3schools.com)
 * [CodePen](https://codepen.io/Jordan1819)
+* [PokeApi](https://pokeapi.co)
 
 # Future Work
 
